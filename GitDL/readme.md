@@ -1,8 +1,8 @@
 Usage:
 
-  upload <file> <path> <message>
+  upload /<file> /<path> /<message>
   
-  download <path>
+  download /<path>
   
   list [path]
   
